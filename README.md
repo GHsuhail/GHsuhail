@@ -1,4 +1,4 @@
-<p align="left">
+<!--<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:30px;" alt="HTML"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right:30px;" alt="CSS"/>
@@ -14,3 +14,4 @@
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" style="margin-right:30px;" alt=".NET"/>-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" style="margin-right:30px;" alt="PostgreSQL"/>
 </p>
+-->
